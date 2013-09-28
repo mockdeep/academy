@@ -5,6 +5,7 @@ ruby '1.9.3'
 gem 'rails'
 
 gem 'bcrypt-ruby'
+gem 'foreigner'
 gem 'pg'
 gem 'jquery-rails'
 gem 'haml-rails'
